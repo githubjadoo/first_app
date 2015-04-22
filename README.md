@@ -2,7 +2,7 @@
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
-This is first application  for [ Ruby on Rails Tutorial: Learn Rails by Example]
+This is first application  for [*Ruby on Rails Tutorial: Learn Rails by Example*]
 Things you may want to cover:
 
 * Ruby version
